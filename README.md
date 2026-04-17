@@ -7,6 +7,9 @@ This repository contains sequences, phylogenetic trees, tables and figures of th
 - **Sequences:**
 Contains new sequences added to GenBank.
 
+- **Phylogenetic trees:**
+Contains both ML an IB phylogenetic trees obtained.
+
 - **Tables:**
 Contains tables with taxa information, analysis results and primers.
 
